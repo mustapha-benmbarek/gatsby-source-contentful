@@ -1,0 +1,40 @@
+{
+  "name": "gatsby-004-source-contentful",
+  "private": true,
+  "description": "A simple webapp starter with blog posts from contentful",
+  "version": "1.0.0",
+  "author": "Mustapha Benmbarek",
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^13.4.0",
+    "gatsby": "^2.17.6",
+    "gatsby-plugin-env-variables": "^1.0.1",
+    "gatsby-source-contentful": "^2.1.56",
+    "gatsby-source-filesystem": "^2.1.36",
+    "gatsby-transformer-remark": "^2.6.33",
+    "node-sass": "^4.13.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "Mustapha Benmbarek",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
