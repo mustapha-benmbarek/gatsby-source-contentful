@@ -1,4 +1,4 @@
-# Gatsby / Blog Contentful
+# Gatsby / Blog Contentful <img valign="bottom" align="right" height="30px" widht="30px" src="https://www.gatsbyjs.org/Gatsby-Logo.svg" />
 
 
 ### What is in there
