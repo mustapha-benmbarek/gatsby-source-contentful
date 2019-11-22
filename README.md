@@ -11,7 +11,7 @@ Gatsby is a blazing fast modern site generator for React. Gatsby is a free and o
 Check out the website [gatsbyjs.org](https://gatsbyjs.org).
 
 
-### How make it run
+### How to make it run
 ```
 git clone https://github.com/mustapha-benmbarek/gatsby-source-contentful
 cd gatsby-source-contentful
