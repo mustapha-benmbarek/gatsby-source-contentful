@@ -1,4 +1,4 @@
-# Gatsby / Blog Contentful <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
+# Gatsby : Blog Contentful <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
 
 
 ### What is in there
@@ -13,8 +13,8 @@ Check out the website [gatsbyjs.org](https://gatsbyjs.org).
 
 ### How make it run
 ```
-git clone https://github.com/mustapha-benmbarek/gatsby-004-source-contentful
-cd gatsby-004-source-contentful
+git clone https://github.com/mustapha-benmbarek/gatsby-source-contentful
+cd gatsby-source-contentful
 npm install 
 gatsby develop
 ```
